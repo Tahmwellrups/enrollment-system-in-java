@@ -1,1 +1,3 @@
-# enrollment-system-in-java
+# Student Enrollment System with Java 📝
+## Developed using NetBeans IDE
+
